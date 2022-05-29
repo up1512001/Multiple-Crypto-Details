@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Multiple-Crypto-Details/static/css/main.7e31b1ef.css",
+    "main.js": "/Multiple-Crypto-Details/static/js/main.d39b5a69.js",
+    "index.html": "/Multiple-Crypto-Details/index.html",
+    "main.7e31b1ef.css.map": "/Multiple-Crypto-Details/static/css/main.7e31b1ef.css.map",
+    "main.d39b5a69.js.map": "/Multiple-Crypto-Details/static/js/main.d39b5a69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e31b1ef.css",
+    "static/js/main.d39b5a69.js"
+  ]
+}
