@@ -3,7 +3,7 @@ Today each person know's about crypto currency so to check each price manually i
 And If you clicked on any coin then it will show you detail's like 24 hour high and low with current supply of it also show's history regarding of coin.
 
 ### Live hosted on netlify
-!()
+![https://multiple-crypto-detail.netlify.app/]
 
 ## Images
 
